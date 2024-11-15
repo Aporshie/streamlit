@@ -13,7 +13,7 @@ def authenticate():
         login_form()
     else:
         # Once authenticated, run the main app
-        main_app()
+        home_page()
 
 # Define the login page
 def login_form():
