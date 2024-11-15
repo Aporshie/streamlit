@@ -3,7 +3,7 @@ from PIL import Image
 
  # Define the home page content
 def home_page():
-    image = Image.open(r'C:\Users\nanay\Desktop\tc.png')
+    image = Image.open('images/tc.png') 
     st.image(image)
 
     st.title("Embedded a ML model in GUI's --Used Streamlit")
