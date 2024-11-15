@@ -3,4 +3,11 @@ pandas
 seaborn
 plotly
 pillow
-matplotlib==3.9.2
+contourpy
+cycler
+fonttools
+kiwisolver
+packaging
+pyparsing
+python-dateutil
+matplotlib==3.5.1
