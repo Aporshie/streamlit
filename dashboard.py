@@ -100,5 +100,5 @@ def dashboard_page():
 
 
 # Run the dashboard page
-if __name__ == "__main__":
-    dashboard_page()
+#if __name__ == "__main__":
+#   dashboard_page()
